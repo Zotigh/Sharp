@@ -6,4 +6,9 @@
 
   <!-- TODO: Remove or change this placeholder text -->
   <string name="hello_blank_fragment">Hello blank fragment</string>
+  <string-array name="listI">
+    <item>List item 1</item>
+    <item>List item 2</item>
+    <item>List item 3</item>
+  </string-array>
 </resources>
